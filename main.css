@@ -1,0 +1,87 @@
+li {
+    display: inline;
+    text-decoration: none;
+    padding: 55px;
+    font-family: 'Roboto', sans-serif;
+
+    
+}
+
+head{
+    color: #f1eedc;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+body {
+    background-color: #0c0e1c;
+    font-size: 150%;
+    font-style: copperplate;
+    
+
+}
+
+
+body{
+    color: #f1eedc;
+    
+}
+
+.title {
+    font-size: 200%;
+    
+}
+
+
+.down {
+    font-size: 20px;
+}
+
+.i-love {
+    font-size: 100px;
+    display: inline;
+    text-align: center;
+    background-color: blanchedalmond;
+    color: #0c0e1c;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    ;
+    letter-spacing: 0px;
+    margin-left: 25px;
+    
+}
+.computing {
+    font-size: 100px;
+    text-align: center;
+    display: inline;
+    font-size: normal;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 0px;
+}
+li {
+    display: inline;
+    padding: 40px;
+}
+
+.carre {
+    height: 50px;
+    width: 50px;
+    background-color: #f1eedc;
+    float: left;
+}
+
+.about-me {
+    column-count: 2;
+    column-rule: 15px;
+    text-align: center;
+}
+
+a:link { 
+    text-decoration: none; 
+    color: #f1eedc;
+}
+
+.main-menu {
+    padding-bottom: 50px;
+}
